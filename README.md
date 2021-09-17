@@ -1,6 +1,8 @@
-# pump-it-up
+# pump-it-up 
 
-A random forest model is used for this problem. 
+Repository reference - https://github.com/gayaldassanayake/pump-it-up
+
+A random forest model is used for this problem.
 
 `n_estimators=100 `
 
